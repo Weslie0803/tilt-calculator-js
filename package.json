@@ -9,16 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "antd": "^5.13.1",
+    "mathjs": "^12.3.0",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "sharp": "^0.33.2"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.1.0"
-  }
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5"
+  },
+  "main": "index.js",
+  "author": "weslie0803 <weslie0803@126.com>",
+  "license": "MIT"
 }
