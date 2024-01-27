@@ -11,6 +11,7 @@
   display: flex;
   align-items: center;
 }
+
 .description {
   display: inherit;
   justify-content: inherit;
